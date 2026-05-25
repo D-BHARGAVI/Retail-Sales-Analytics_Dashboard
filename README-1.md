@@ -58,3 +58,6 @@ Retail-Sales-Analytics/
 
 => Outcome
 This project helped in understanding real-world retail analytics workflows and how business insights can be generated from raw sales data using analytical tools and visualization techniques.
+
+=>Dashboard Preview:
+![Dashboard](https://github.com/D-BHARGAVI/Retail-Sales-Analytics_Dashboard/blob/main/Retail_Sales_Intelligence_Dashboard.png)
